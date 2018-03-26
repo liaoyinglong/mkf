@@ -1,7 +1,7 @@
 {
-  "name": "mkf",
+  "name": "cmk",
   "version": "1.0.0",
-  "description": "",
+  "description": "懒人工具",
   "private": true,
   "scripts": {},
   "bin": {
