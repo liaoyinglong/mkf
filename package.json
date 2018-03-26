@@ -1,11 +1,11 @@
 {
-  "name": "cmk",
+  "name": "mkf",
   "version": "1.0.0",
   "description": "懒人工具",
-  "private": true,
+  "private": false,
   "scripts": {},
   "bin": {
-    "cmk": "bin/cmk.js"
+    "mkf": "bin/mkf.js"
   },
   "author": "liaoyinglong",
   "license": "ISC",
