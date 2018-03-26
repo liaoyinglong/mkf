@@ -1,0 +1,25 @@
+{
+  "name": "mkf",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {},
+  "bin": {
+    "cmk": "bin/cmk.js"
+  },
+  "author": "liaoyinglong",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^9.6.0",
+    "cz-conventional-changelog": "^2.1.0"
+  },
+  "dependencies": {
+    "fs-extra": "^5.0.0",
+    "inquirer": "^5.1.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
